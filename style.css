@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: 4em auto;
+  box-shadow: 0 0 50px -15px rgba(0, 0, 0, 0.1);
+  cursor: none;
+}
